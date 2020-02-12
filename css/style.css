@@ -56,8 +56,7 @@ h2{
 #hero-image{
     height:600px;
     width: 100%;
-    background: url("../images/people-on-kayak-boat-near-green-leafed-trees-1497735.jpg") no-repeat center center;
-    /* background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/main-image.png") no-repeat center center; */
+    background: url("../images/index/people-on-kayak-boat-near-green-leafed-trees.jpg") no-repeat center center;
   
     animation-name: hero-zoom;
     animation-duration: 5s;
@@ -179,15 +178,13 @@ hr{
 }
  
 #circle-cover-bg{
-    /* background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png") no-repeat center center; */
-    background: url("../images/photo-of-people-standing-on-boat-3353288.jpg") no-repeat center center;
+    background: url("../images/index/photo-of-people-standing-on-boat.jpg") no-repeat center center;
     height:100%;
     border-radius: 50%;
 }
 
 #times{
-    /* background-image: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/dublin-city.png"); */
-    background-image: url("../images/people-paddling-on-white-row-boat-3682409.jpg");
+    background-image: url("../images/index/people-paddling-on-white-row-boat.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -244,8 +241,7 @@ footer{
 
 .form-section{
     clear: left;
-    /* background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg") no-repeat center center; */
-    background: url("../images/colorful-1553246_1920.jpg") no-repeat center center;
+    background: url("../images/signup/colorful-kayaks.jpg") no-repeat center center;
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -255,7 +251,7 @@ footer{
 .signup-form {
   margin-top: 150px;
   color: #fff;
-  background-color: rgba(6, 6, 6, 0.6);
+  background-color: rgba(0, 0, 0, 0.7);
   max-width: 400px;
   position: absolute;
   left: 10%;
@@ -278,7 +274,7 @@ footer{
 }
 
 .text-input:hover {
-  border-color: #f16c6b;
+  border-color: #efa845bf;
 }
 
 .join-button {
