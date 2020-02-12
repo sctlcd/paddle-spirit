@@ -255,7 +255,7 @@ footer{
 .signup-form {
   margin-top: 150px;
   color: #fff;
-  background-color: rgba(60, 60, 60, 0.6);
+  background-color: rgba(6, 6, 6, 0.6);
   max-width: 400px;
   position: absolute;
   left: 10%;
@@ -294,7 +294,7 @@ footer{
 
 .join-button:hover {
   background-color:  #fafafa;
-  color: #e8992abf;
+  color: #efa845bf;
 }
 
 @media screen and (max-width: 1393px) {
