@@ -56,7 +56,8 @@ h2{
 #hero-image{
     height:600px;
     width: 100%;
-    background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/main-image.png") no-repeat center center;
+    background: url("../images/people-on-kayak-boat-near-green-leafed-trees-1497735.jpg") no-repeat center center;
+    /* background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/main-image.png") no-repeat center center; */
   
     animation-name: hero-zoom;
     animation-duration: 5s;
@@ -81,6 +82,8 @@ h2{
 
 #cover-text, #cover-text h2 {
     color: #ffffff;
+    margin-top: 15px;
+    text-align: center;
 }
 
 #cover-text {
@@ -90,14 +93,14 @@ h2{
     letter-spacing: 4px;
 
     width: 300px;
-    height: 200px;
+    height: 150px;
 
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: rgba(241, 109, 107, .7);
+    background-color: rgba(239, 168, 69, 0.75);
 
-    bottom:30px;
+    bottom:320px;
     right: 120px;
 
     position: absolute;
@@ -176,13 +179,15 @@ hr{
 }
  
 #circle-cover-bg{
-    background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png") no-repeat center center;
+    /* background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png") no-repeat center center; */
+    background: url("../images/photo-of-people-standing-on-boat-3353288.jpg") no-repeat center center;
     height:100%;
     border-radius: 50%;
 }
 
 #times{
-    background-image: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/dublin-city.png");
+    /* background-image: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/dublin-city.png"); */
+    background-image: url("../images/people-paddling-on-white-row-boat-3682409.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -239,7 +244,8 @@ footer{
 
 .form-section{
     clear: left;
-    background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg") no-repeat center center;
+    /* background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg") no-repeat center center; */
+    background: url("../images/colorful-1553246_1920.jpg") no-repeat center center;
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -249,7 +255,7 @@ footer{
 .signup-form {
   margin-top: 150px;
   color: #fff;
-  background-color: rgba(60, 60, 60, 0.6);
+  background-color: rgba(6, 6, 6, 0.6);
   max-width: 400px;
   position: absolute;
   left: 10%;
@@ -281,14 +287,14 @@ footer{
   padding: 15px 32px 15px 32px;
   text-align: center;
   font-size: 100%;
-  background-color: #f16c6b;
+  background-color: #efa845bf;
   color: #fafafa;
   display: block;
 }
 
 .join-button:hover {
   background-color:  #fafafa;
-  color: #f16c6b;
+  color: #efa845bf;
 }
 
 @media screen and (max-width: 1393px) {
@@ -361,7 +367,6 @@ footer{
         margin: 0 auto; 
     }
 
-  
     .left-about-heading,
     .right-about-heading {
         width: inherit;
