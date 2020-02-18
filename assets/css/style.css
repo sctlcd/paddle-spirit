@@ -63,13 +63,12 @@ h2{
 /*-------------------------------------------------------- Footer ------------------*/
 
 footer{
-    height: 150px;
+    height: 100px;
+    margin-top: 25px;
 }
 
 .social-networks{
     text-align: center;
-    margin-top: 40px;
-    color: 
 }
 
 .social-networks li {
@@ -86,7 +85,6 @@ footer{
 .social-networks i:hover {
     color: #01c4f9;
 }
-
 
 /*-------------------------------------------------------- Home page ------------------*/
 
@@ -155,7 +153,6 @@ footer{
     width: 33%;
     float: left;
 }
-
 
 #right-about{
     padding-top: 30px;
@@ -365,7 +362,6 @@ i {
     hr {
         display: none;
     }
-    
 }
 
 @media screen and (max-width: 943px) {
